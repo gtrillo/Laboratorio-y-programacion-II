@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\bin\Debug\net5.0\Clase2_Ejercicio2.exe
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\bin\Debug\net5.0\Clase2_Ejercicio2.deps.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\bin\Debug\net5.0\Clase2_Ejercicio2.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\bin\Debug\net5.0\Clase2_Ejercicio2.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\bin\Debug\net5.0\Clase2_Ejercicio2.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\bin\Debug\net5.0\Clase2_Ejercicio2.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\refint\Clase2_Ejercicio2.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\Clase2_Ejercicio2.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase2_Ejercicio2\obj\Debug\net5.0\ref\Clase2_Ejercicio2.dll

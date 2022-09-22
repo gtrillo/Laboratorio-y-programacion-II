@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\bin\Debug\net5.0\Clase2_Ejercicio3.exe
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\bin\Debug\net5.0\Clase2_Ejercicio3.deps.json
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\bin\Debug\net5.0\Clase2_Ejercicio3.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\bin\Debug\net5.0\Clase2_Ejercicio3.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\bin\Debug\net5.0\Clase2_Ejercicio3.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\bin\Debug\net5.0\Clase2_Ejercicio3.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\refint\Clase2_Ejercicio3.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\Clase2_Ejercicio3.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\ConvertirDecimalABinario\obj\Debug\net5.0\ref\Clase2_Ejercicio3.dll

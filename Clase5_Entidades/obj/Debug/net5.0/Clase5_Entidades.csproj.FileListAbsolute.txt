@@ -1,0 +1,12 @@
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\bin\Debug\net5.0\Clase5_Entidades.deps.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\bin\Debug\net5.0\Clase5_Entidades.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\bin\Debug\net5.0\Clase5_Entidades.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\refint\Clase5_Entidades.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\Clase5_Entidades.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase5_Entidades\obj\Debug\net5.0\ref\Clase5_Entidades.dll

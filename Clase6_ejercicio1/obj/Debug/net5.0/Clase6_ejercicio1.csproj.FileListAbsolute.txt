@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\bin\Debug\net5.0\Clase6_ejercicio1.exe
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\bin\Debug\net5.0\Clase6_ejercicio1.deps.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\bin\Debug\net5.0\Clase6_ejercicio1.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\bin\Debug\net5.0\Clase6_ejercicio1.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\bin\Debug\net5.0\Clase6_ejercicio1.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\bin\Debug\net5.0\Clase6_ejercicio1.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\refint\Clase6_ejercicio1.dll
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\Clase6_ejercicio1.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase6_ejercicio1\obj\Debug\net5.0\ref\Clase6_ejercicio1.dll

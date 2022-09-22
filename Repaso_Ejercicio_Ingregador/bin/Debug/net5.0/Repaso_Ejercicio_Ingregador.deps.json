@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Repaso_Ejercicio_Ingregador/1.0.0": {
+        "dependencies": {
+          "Repaso_Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Repaso_Ejercicio_Ingregador.dll": {}
+        }
+      },
+      "Repaso_Entidades/1.0.0": {
+        "runtime": {
+          "Repaso_Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repaso_Ejercicio_Ingregador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repaso_Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

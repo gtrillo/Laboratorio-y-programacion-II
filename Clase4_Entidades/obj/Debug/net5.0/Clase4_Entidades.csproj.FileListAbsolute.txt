@@ -1,0 +1,5 @@
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase4_Entidades\obj\Debug\net5.0\Clase4_Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase4_Entidades\obj\Debug\net5.0\Clase4_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase4_Entidades\obj\Debug\net5.0\Clase4_Entidades.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase4_Entidades\obj\Debug\net5.0\Clase4_Entidades.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Ejercicios\Clase4_Entidades\obj\Debug\net5.0\Clase4_Entidades.csproj.CoreCompileInputs.cache
